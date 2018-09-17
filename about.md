@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+When I am not writing code for others you can find me doing random things but mostly playing or making video games.
