@@ -38,7 +38,7 @@ Search forward through history for the commands which exactly match the characte
 __`unbound`__ : _history-search-backward_  
 Search backward through history for the commands which exactly match the characters between start of the line and the cursor position
 
-Till here all the previous commands are the part of [GNU readline](gnu-readline) and they can be remapped. Go check the whole list, may be you'll find something interesting.  
+Till here all the previous commands are the part of [GNU readline][gnu-readline] and they can be remapped. Go check the whole list, may be you'll find something interesting.  
 Here is the one example for remapping the _history-search-forward_ and _history-search-backward_ command. And I can say for sure that this 
 one is gonna stick with you for a long time. We will map UP and DOWN arrow keys to these commands respectively. By default these keys search forward/backword for one command at a time.
 
