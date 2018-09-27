@@ -2,6 +2,7 @@
 layout: post
 title: Part-1 How to become a command line ninja?
 tags: [Linux, Command line, cli, Unix, Shell, Bash]
+comments: true
 ---
 
 Becoming a ninja is pretty easy task; especially if it's the command line ninja. Just equip the right tools, know how to read the manual for those tools and some practice. All you have to do is stick to the plan.  
