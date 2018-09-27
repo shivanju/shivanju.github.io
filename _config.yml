@@ -13,7 +13,7 @@ permalink: pretty
 # Third-party services
 # just leave empty to disable it
 google_analytics: UA-126563695-1
-disqus_shortname: shivanju.disqus.com
+disqus_shortname: shivanju
 
 plugins:
   - jekyll-sitemap
