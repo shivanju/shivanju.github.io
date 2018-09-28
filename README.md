@@ -1,4 +1,4 @@
-This blog is [Textlog](https://github.com/heiswayi/textlog) theme.
+This blog is using [Textlog](https://github.com/heiswayi/textlog) theme.
 
 ## License
 
