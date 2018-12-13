@@ -5,13 +5,13 @@ tags: [android, google, opensource, applications]
 comments: true
 ---
 
-Six months ago I thought of doing an experiment. It was getting rid of most of the of the default applications that came pre-installed with my android phone and trying out their alternatives. And not only for default apps but also for some other popular applications like Lastpass. The alternative may be primarily open source or proprietary. Since most of the default apps are provided by Google, you can say this experiment was sort of de-googling my phone.  
+Six months ago, I thought of doing an experiment. It was getting rid of most of the of the default applications that came pre-installed with my android phone and trying out their alternatives. And not only for default apps but also for some other popular applications like Lastpass. The alternative may be primarily open source or proprietary. Since most of the default apps are provided by Google, you can say this experiment was sort of de-googling my phone.  
 
 It's been more than six months after de-googling my phone and I don't think I'm going to revert it. This article is also helpful for those people who are concerned about Google storing their data as most of the applications are open source and they don't store any kind of data.  
 
 It can be hard for some people to uninstall the default apps entirely and as a result of this they might feel reluctant to try out alternatives. No one wants to have two apps for the same purpose. Still I would say try and then uninstall it. For folks out there who can get their hands dirty I would say that try de-googling your phone for few days and see whether you like it or not. It might take some days to get accustom to this change but after that you won't feel much of a difference.  
 
-Now about my setup. I have a rooted Moto G5 Plus with [AEX][aex] Oreo installed along with the playstore(the only Google app) which might come handy sometimes. I am using it as my daily driver from last six months. Below I have listed down some applications and their alternatives along with the project page incase you want to contribute.  
+Now about my setup. I have a rooted Moto G5 Plus with [AEX][aex] Oreo installed along with the playstore(the only Google app) which might come handy sometimes. I am using it as my daily driver from last six months. Below I have listed down some applications and their alternatives along with the project page in case you want to contribute.  
 
 #### __Playstore__:
 __[F-Droid][fdroid]__: This is basically the Playstore of opensource apps. This is one of the first app that you should install if you want to automatically update your apps that are not from playstore.
@@ -32,11 +32,11 @@ Not to mention that in the worst case if you have to use G-maps you can always o
 
 #### __Gmail Client__:
 __[K-9 Mail][k9mail]__: K-9 is a slim and fast alternative to Gmail client. It doesn't have a
-sleek UI like Gmail but functionally it has everything that one might expect from an email client. One downside of K-9 is that it doesn't have [ActiveSync][activesync] support because it's a proprietary protocol developed by Microsoft. So if you are one of those who needs ActiveSync support, hard luck here.  
-__[BlueMail][bluemail]__ is another email client that doesn't have the previously mentioned issue. Though it comes at a cost. Bluemail is not opensource. One good side is that it's free(of cost) and ad free. Though you might want to have look at their [privacy policy][bluemail_policy].
+sleek UI like Gmail but functionally it has everything that one might expect from an email client. One downside of K-9 is that it doesn't have [ActiveSync][activesync] support because it's a proprietary protocol developed by Microsoft. So, if you are one of those who needs ActiveSync support, hard luck here.  
+__[BlueMail][bluemail]__ is another email client that doesn't have the previously mentioned issue. Though it comes at a cost. Bluemail is not opensource. One good side is that it's free (of cost) and ad free. Though you might want to have look at their [privacy policy][bluemail_policy].
 
 #### __Gmail Service__:
-__[ProtonMail][protonmail]__: There are lot of email service provider in the market and there is an option to host for yourself. Protonmail is the one which has stuck to me for past six months. It's open source, has it's own client and supports [PGP][pgp]. It has different tiers of subscriptions. I use free tier which has 500 MB of free storage, 3 custom folders and 3 custom labels. 500 MB might sound less but from past six months my inbox hasn't even reached 60 MB. And that too when I have switched all of my accounts on different sites to Protonmail.  
+__[ProtonMail][protonmail]__: There are lot of email service provider in the market and there is an option to host for yourself. Protonmail is the one which has stuck to me for past six months. It's open source, has its own client and supports [PGP][pgp]. It has different tiers of subscriptions. I use free tier which has 500 MB of free storage, 3 custom folders and 3 custom labels. 500 MB might sound less but from past six months my inbox hasn't even reached 60 MB. And that too when I have switched all of my accounts on different sites to Protonmail.  
 Other alternatives are also available in the market such as __[FastMail][fastmail]__, __[HushMail][hushmail]__, __[MailFence][mailfence]__ etc. You can give them a try and see what you like most and which service is best suited for your needs. 
 
 #### __Google Keep__:
@@ -54,7 +54,7 @@ __[Bitwarden][bitwarden]__: Another password manager like Lastpass but open sour
 Personally I don't use any password manager, I have my own little scripts which do the job for me. But if I had to it would be bitwarden for now.
 
 
-Those are the some apps that you might want to try. You can either take the route that I took or cherry pick the apps that you like. You can also comment down if I missed some app that you think should belong here. I'll keep updating this space with newer/better alternatives. My main motive for writing this article was to spread the awareness that there are some good alternatives available that are not so popular but worth trying.  
+Those are some apps that you might want to try. You can either take the route that I took or cherry pick the apps that you like. You can also comment down if I missed some app that you think should belong here. I'll keep updating this space with newer/better alternatives. My main motive for writing this article was to spread the awareness that there are some good alternatives available that are not so popular but worth trying.  
 
 [fdroid]: https://f-droid.org/
 [firefox]: https://www.mozilla.org/en-US/firefox/mobile/
