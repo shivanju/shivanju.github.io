@@ -14,13 +14,14 @@ It can be hard for some people to uninstall the default apps entirely and as a r
 Now about my setup. I have a rooted Moto G5 Plus with [AEX][aex] Oreo installed along with the playstore(the only Google app) which might come handy sometimes. I am using it as my daily driver from last six months. Below I have listed down some applications and their alternatives along with the project page in case you want to contribute.  
 
 #### __Playstore__:
-__[F-Droid][fdroid]__: This is basically the Playstore of opensource apps. This is one of the first app that you should install if you want to automatically update your apps that are not from playstore.
+__[F-Droid][fdroid]__: This is basically the Playstore of opensource apps. This is one of the first app that you should install if you want to automatically update your apps that are not from playstore. Some apps will be available in both the places but they might differ in some feature. 
 
 #### __Google Chrome__:
 __[Firefox][firefox]__: No introduction needed here. It's in the market for more than 15 years. Earlier I was reluctant to switch to Firefox but recent updates made web-page rendering smoother and faster. Another feature is that Firefox lets you install extensions whereas Chrome doesn't. Though performance wise it's still slightly behind Chrome but it's not that much noticeable.
 
 #### __YouTube__:
-__[NewPipe][newpipe]__: So far this is the best alternative I've ever used and that too better than original. It's an android app wrapper on top of YouTube's website. It has everything that YouTube has and apart from that it has some awesome features like background play, pop-up player and audio/video download. There is one caveat though that you can't sign-in to YouTube, but that should have been obvious till now. That means no sync feature either. Still you can import you existing subscriptions by following the simple procedure described in the app.
+__[NewPipe][newpipe]__: So far this is the best alternative I've ever used and that too better than original. It's an android app wrapper on top of YouTube's website. It has everything that YouTube has and apart from that it has some awesome features like background play, pop-up player and audio/video download. There is one caveat though that you can't sign-in to YouTube, but that should have been obvious till now. That means no sync feature either. Still you can import you existing subscriptions by following the simple procedure described in the app.  
+__Note:__ This app is not available in playstore for obvious reasons.
 
 #### __Offline Multimedia Player__:
 __[VLC][vlc]__: This shouldn't be a new name for you. Like it's desktop variant, VLC-android has all the features in one package. You may find some fancy music players in playstore but VLC beats them all without a doubt. It has audio/video player together. It even has a stream player, so just input a YouTube URL and start playing.
