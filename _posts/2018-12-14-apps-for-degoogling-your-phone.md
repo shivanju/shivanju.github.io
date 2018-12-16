@@ -5,7 +5,7 @@ tags: [android, google, opensource, applications]
 comments: true
 ---
 
-Six months ago, I thought of doing an experiment. It was getting rid of most of the of the default applications that came pre-installed with my android phone and trying out their alternatives. And not only for default apps but also for some other popular applications like Lastpass. The alternative may be primarily open source or proprietary. Since most of the default apps are provided by Google, you can say this experiment was sort of de-googling my phone.  
+Six months ago, I thought of doing an experiment. It was getting rid of most of the default applications that came pre-installed with my android phone and trying out their alternatives. And not only for default apps but also for some other popular applications like Lastpass. The alternative may be primarily open source or proprietary. Since most of the default apps are provided by Google, you can say this experiment was sort of de-googling my phone.  
 
 It's been more than six months after de-googling my phone and I don't think I'm going to revert it. This article is also helpful for those people who are concerned about Google storing their data as most of the applications are open source and they don't store any kind of data.  
 
@@ -14,7 +14,7 @@ It can be hard for some people to uninstall the default apps entirely and as a r
 Now about my setup. I have a rooted Moto G5 Plus with [AEX][aex] Oreo installed along with the playstore(the only Google app) which might come handy sometimes. I am using it as my daily driver from last six months. Below I have listed down some applications and their alternatives along with the project page in case you want to contribute.  
 
 #### __Playstore__:
-__[F-Droid][fdroid]__: This is basically the Playstore of opensource apps. This is one of the first app that you should install if you want to automatically update your apps that are not from playstore. Some apps will be available in both the places but they might differ in some feature. 
+__[F-Droid][fdroid]__: This is basically the Playstore of opensource apps. This is one of the first app that you should install if you want to automatically update your apps that are not from playstore. Some apps will be available in both the places but they might differ in some features. 
 
 #### __Google Chrome__:
 __[Firefox][firefox]__: No introduction needed here. It's in the market for more than 15 years. Earlier I was reluctant to switch to Firefox but recent updates made web-page rendering smoother and faster. Another feature is that Firefox lets you install extensions whereas Chrome doesn't. Though performance wise it's still slightly behind Chrome but it's not that much noticeable.
