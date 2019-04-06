@@ -1,6 +1,6 @@
 # Site settings
 title: "Foo Bar"
-description: "A repository of my thoughts about random stuff, sometimes video games."
+description: "A repository of my thoughts on random stuffs, sometimes video games."
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Shivanju"
